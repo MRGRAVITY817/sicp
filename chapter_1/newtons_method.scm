@@ -21,3 +21,10 @@
 
 (define (average x y)
   (/ (+ x y) 2))
+
+;; Test
+(sqrt 1)
+(sqrt 2)
+(sqrt 4)
+(sqrt 9)
+(sqrt 1667)
